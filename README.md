@@ -26,10 +26,10 @@ Our solution is a friendly AI that takes your personal details and predicts your
 ### Technologies/Components Used
 
 For Software:
-- **Languages used:** Dart
+- **Languages used:** Dart, Python
 - **Frameworks used:** Flutter
-- **Libraries used:** http, json_serializable
-- **Tools used:** Visual Studio Code, FastAPI
+- **Libraries used:** http, json_serializable, Pydantic, google-generativeai, uvicorn
+- **Tools used:** Visual Studio Code, FastAPI, Docker
 
 For Hardware:
 - Not applicable for this project (Mobile Application).
